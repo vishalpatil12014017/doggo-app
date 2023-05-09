@@ -42,10 +42,23 @@ The project consists of three main components:
 
 ## Home
 displays a list of random dog images if no breeds are selected, or breed-based images if a breed is selected. Clicking on any image will open it in a modal that can be zoomed.
+
+<img width="1440" alt="Screenshot 2023-05-09 at 4 33 22 PM" src="https://github.com/vishalpatil12014017/doggo-app/assets/87421912/64e121f6-fd34-4e92-9e3f-3dab4e5a7a6a">
+
+<img width="1440" alt="Screenshot 2023-05-09 at 4 33 50 PM" src="https://github.com/vishalpatil12014017/doggo-app/assets/87421912/6256eb35-13ec-4350-bf10-2c0927dde068">
+
+
+
+
 ## List 
 lists all sub-breeds (if any exist) and links to view an image of each in a modal.
+
+
 ## Track 
 creates a random coordinate array and plots the doggos based on their breed on Google Maps.
+
+![Uploading Screenshot 2023-05-09 at 4.36.14 PM.png…]()
+
 
 ### APIs Used
 The following APIs from https://dog.ceo were used in this project:
@@ -61,3 +74,6 @@ This project was created by *Vishal Patil*.
 
 ### Contact
 For any questions or feedback, please contact me at *patil120140@gmail.com*.
+
+### Demo
+https://doggo-app-deploy.vercel.app/
