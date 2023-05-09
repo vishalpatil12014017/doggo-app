@@ -1,0 +1,63 @@
+# Dog Breeds Project
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+This project was created as part of a technical assessment, and its goal is to display a list of dog breeds and their images, and track them on a map based on their breed. The project was built using React, and utilizes several APIs from https://dog.ceo to display dog images.
+
+### Installation
+
+To run this project, please follow the steps below:
+
+Clone the repository to your local machine using the following command:
+
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+Navigate to the project directory and install the required dependencies using the following command:
+
+`npm install`
+
+Start the development server using the following command:
+
+`npm start`
+
+Open your web browser and navigate to http://localhost:3000 to view the project.
+
+### Usage
+
+The project consists of three main components:
+
+## Home
+displays a list of random dog images if no breeds are selected, or breed-based images if a breed is selected. Clicking on any image will open it in a modal that can be zoomed.
+## List 
+lists all sub-breeds (if any exist) and links to view an image of each in a modal.
+## Track 
+creates a random coordinate array and plots the doggos based on their breed on Google Maps.
+
+### APIs Used
+The following APIs from https://dog.ceo were used in this project:
+
+1. List of all Breeds: https://dog.ceo/api/breeds/list/all
+2. Random Image of a Dog: https://dog.ceo/api/breeds/image/random
+3. Get Multiple Images of one Breed: https://dog.ceo/api/breed/{breedName}/images
+4. Get a List of all Sub-Breeds: https://dog.ceo/api/breed/{breedName}/list
+5. Get one image of one breed: https://dog.ceo/api/breed/{breedName}/images/random
+
+### Credits
+This project was created by *Vishal Patil*.
+
+### Contact
+For any questions or feedback, please contact me at *patil120140@gmail.com*.
