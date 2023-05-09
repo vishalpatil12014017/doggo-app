@@ -45,19 +45,46 @@ displays a list of random dog images if no breeds are selected, or breed-based i
 
 <img width="1440" alt="Screenshot 2023-05-09 at 4 33 22 PM" src="https://github.com/vishalpatil12014017/doggo-app/assets/87421912/64e121f6-fd34-4e92-9e3f-3dab4e5a7a6a">
 
+<img width="1440" alt="Screenshot 2023-05-09 at 4 33 50 PM" src="https://i.ibb.co/ng02kp0/Screenshot-2023-05-09-at-4-36-45-PM.png">
+
+
+<img width="1440" alt="Screenshot 2023-05-09 at 4 33 22 PM" src="https://i.ibb.co/K53gTwL/Screenshot-2023-05-09-at-4-33-31-PM.png">
+
+
 <img width="1440" alt="Screenshot 2023-05-09 at 4 33 50 PM" src="https://github.com/vishalpatil12014017/doggo-app/assets/87421912/6256eb35-13ec-4350-bf10-2c0927dde068">
 
-
+<img width="1440" alt="Screenshot 2023-05-09 at 4 33 22 PM" src="https://i.ibb.co/SyTSTtz/Screenshot-2023-05-09-at-4-34-56-PM.png">
 
 
 ## List 
 lists all sub-breeds (if any exist) and links to view an image of each in a modal.
 
+<img width="1440" alt="Screenshot 2023-05-09 at 4 33 50 PM" src="https://i.ibb.co/t2RCBqH/Screenshot-2023-05-09-at-4-36-20-PM.png">
+
+<img width="1440" alt="Screenshot 2023-05-09 at 4 33 50 PM" src="https://i.ibb.co/jyjGfWH/Screenshot-2023-05-09-at-4-34-50-PM.png">
+
+<img width="1440" alt="Screenshot 2023-05-09 at 4 33 50 PM" src="https://i.ibb.co/z5Qz2jW/Screenshot-2023-05-09-at-4-36-24-PM.png">
+
 
 ## Track 
 creates a random coordinate array and plots the doggos based on their breed on Google Maps.
 
-![Uploading Screenshot 2023-05-09 at 4.36.14 PM.png…]()
+<img width="1440" alt="Screenshot 2023-05-09 at 4 33 50 PM" src="https://i.ibb.co/j68G5Ck/Screenshot-2023-05-09-at-4-36-14-PM.png">
+
+
+<img width="1440" alt="Screenshot 2023-05-09 at 4 33 50 PM" src="https://i.ibb.co/tsn7rw5/Screenshot-2023-05-09-at-4-35-43-PM.png">
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### APIs Used
